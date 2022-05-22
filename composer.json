@@ -1,0 +1,16 @@
+{
+    "name": "alex/php-framework",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Alex\\App\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Oleksandr Kopyl",
+            "email": "alexsander11115@gmail.com"
+        }
+    ],
+    "require": {}
+}
